@@ -1,0 +1,6 @@
+{
+  "name": "Grokson Intelligence Platform",
+  "description": "Официальная корпоративная нейросетевая платформа Grokson. Высокопроизводительный шлюз вычислений, аналитика данных, токенизированный биллинг и защищённая панель управления.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
